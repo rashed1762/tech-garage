@@ -1,0 +1,29 @@
+.logo{
+    height: 140px;
+}
+.icon{
+    font-size: 25px;
+    margin: 7px;
+}
+
+.nav1{
+    height: 100px;
+}
+.nav2{
+    box-shadow: 10px 10px 20px gray;
+    
+}
+
+.cat{
+    border: 1px solid red;
+    background-color: aliceblue;
+    border-bottom: 2px solid red;
+}
+.menunav:hover{
+    color: blueviolet;
+}
+.footerlogo{
+    height: 100px;
+    margin-left: 50px;
+
+}

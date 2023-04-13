@@ -1,0 +1,12 @@
+.navpart{
+    border-right: 2px solid rgb(95, 85, 230);
+}
+.shopcrd{
+    border: 1px solid red;
+    padding-left: 50px;
+}
+.info{
+    height: 420px;
+    overflow-y: scroll;
+    
+}   
